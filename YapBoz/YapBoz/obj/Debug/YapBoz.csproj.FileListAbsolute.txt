@@ -1,0 +1,11 @@
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\bin\Debug\YapBoz.exe.config
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\bin\Debug\YapBoz.exe
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\bin\Debug\YapBoz.pdb
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.csproj.AssemblyReference.cache
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.Form1.resources
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.Properties.Resources.resources
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.csproj.GenerateResource.cache
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.csproj.CoreCompileInputs.cache
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.exe
+C:\Users\Şevval Ekinci\Desktop\C#\YapBoz\YapBoz\obj\Debug\YapBoz.pdb
